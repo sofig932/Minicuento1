@@ -1,0 +1,362 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cathedral\n"
+"POT-Creation-Date: 2024-05-14 15:58+0530\n"
+"PO-Revision-Date: 2024-05-14 15:58+0530\n"
+"Last-Translator: \n"
+"Language-Team: Starthemes Team <support@starthemes.net>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;esc_attr_e;esc_html_e;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: block-patterns.php:17
+msgid "Cathedral"
+msgstr ""
+
+#: functions.php:32
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/about.php:47
+msgid "Free Full Site Editing WordPress Theme"
+msgstr ""
+
+#: inc/about.php:58
+msgid "Getting Started with Cathedral!"
+msgstr ""
+
+#: inc/about.php:59
+msgid ""
+"Awesome! Cathedral has been installed and activated successfully. Now, you "
+"can start building your dream website with a wide range of highly-"
+"customizable block patterns, templates, and template parts available in this "
+"astounding theme."
+msgstr ""
+
+#: inc/about.php:65
+msgid "More Features with Cathedral Pro Theme"
+msgstr ""
+
+#: inc/about.php:66
+msgid ""
+"To get more features and unique home page sections, we recommend you "
+"activate the Cathedral Pro. With the pro theme installed, get more options "
+"like google fonts, colors, sliders, page template, shortcodes and more."
+msgstr ""
+
+#: inc/about.php:67
+msgid "Buy Cathedral Pro"
+msgstr ""
+
+#: inc/about.php:76
+msgid "Important Links"
+msgstr ""
+
+#: inc/about.php:77
+msgid "Theme Info"
+msgstr ""
+
+#: inc/about.php:78
+msgid "View Demo"
+msgstr ""
+
+#: inc/about.php:79
+msgid "Support"
+msgstr ""
+
+#: inc/about.php:86
+msgid "Leave us a review"
+msgstr ""
+
+#: inc/about.php:87
+msgid ""
+"Loved Cathedral? Feel free to leave your feedback. Your opinion helps us "
+"reach more audiences!"
+msgstr ""
+
+#: inc/about.php:88
+msgid "Review"
+msgstr ""
+
+#: patterns/404.php:12
+msgid "404"
+msgstr ""
+
+#: patterns/404.php:16
+msgid "Page not found!"
+msgstr ""
+
+#: patterns/404.php:20
+msgid "Sorry, the page you are looking for does not exist or has been moved."
+msgstr ""
+
+#: patterns/404.php:25
+msgid "Return Home"
+msgstr ""
+
+#: patterns/archive.php:54
+msgid "Sorry, No posts exists..."
+msgstr ""
+
+#: patterns/archive.php:65
+#: patterns/single.php:63
+msgid "Search"
+msgstr ""
+
+#: patterns/archive.php:75
+#: patterns/single.php:73
+msgid "Popular Posts"
+msgstr ""
+
+#: patterns/archive.php:99
+#: patterns/single.php:97
+msgid "Categories"
+msgstr ""
+
+#: patterns/archive.php:109
+#: patterns/single.php:107
+msgid "Archives"
+msgstr ""
+
+#: patterns/archive.php:119
+#: patterns/single.php:117
+msgid "Tags"
+msgstr ""
+
+#: patterns/banner.php:17
+msgid "God shall speak to you"
+msgstr ""
+
+#: patterns/banner.php:23
+msgid "Many people, many souls, one church, one Lord."
+msgstr ""
+
+#: patterns/banner.php:27
+msgid ""
+"Enjoy every single moment. The good, the bad, the beautiful, the ugly, the "
+"inspiring, the not-so-glamorous moments. and Thank God through it all."
+msgstr ""
+
+#: patterns/banner.php:32
+#: patterns/header.php:95
+msgid "Donate Today"
+msgstr ""
+
+#: patterns/counter.php:15
+msgid "135"
+msgstr ""
+
+#: patterns/counter.php:21
+msgid "Parishioners Every Sunday"
+msgstr ""
+
+#: patterns/counter.php:31
+msgid "24"
+msgstr ""
+
+#: patterns/counter.php:37
+msgid "Pastors Preach Love for God"
+msgstr ""
+
+#: patterns/counter.php:47
+msgid "1780"
+msgstr ""
+
+#: patterns/counter.php:53
+msgid "People Who Changed Their Lives"
+msgstr ""
+
+#: patterns/counter.php:63
+msgid "88"
+msgstr ""
+
+#: patterns/counter.php:69
+msgid "Motivating Books About God"
+msgstr ""
+
+#: patterns/features.php:15
+msgid "Cathedral Stories"
+msgstr ""
+
+#: patterns/features.php:21
+msgid "Welcome To Praise Cathedral Church"
+msgstr ""
+
+#: patterns/features.php:46
+msgid "Our Mission"
+msgstr ""
+
+#: patterns/features.php:50
+#: patterns/features.php:84
+#: patterns/features.php:118
+msgid ""
+"Proin non pulvinar libec pellentesque sodales nuncid consectetur leo "
+"ultricam mauris simple dummy content."
+msgstr ""
+
+#: patterns/features.php:56
+#: patterns/features.php:90
+#: patterns/features.php:124
+msgid ">>"
+msgstr ""
+
+#: patterns/features.php:80
+msgid "Our Focus"
+msgstr ""
+
+#: patterns/features.php:114
+msgid "Our Beliefs"
+msgstr ""
+
+#: patterns/footer.php:16
+msgid "Get In Contact"
+msgstr ""
+
+#: patterns/footer.php:21
+msgid ""
+"Cathedral Church WordPress Theme is professionally designed for non-profit "
+"church, modern church, prayer group, Christian, charity, non-profit "
+"organization. Grab it soon!"
+msgstr ""
+
+#: patterns/footer.php:30
+msgid "506, Lorem Street, Station Road, New York, US 26355."
+msgstr ""
+
+#: patterns/footer.php:40
+#: patterns/footer.php:50
+#: patterns/header.php:56
+msgid "(+123) 4567 890"
+msgstr ""
+
+#: patterns/footer.php:60
+#: patterns/header.php:36
+msgid "demo@example.com"
+msgstr ""
+
+#: patterns/footer.php:69
+msgid "Subscribe Newsletter"
+msgstr ""
+
+#: patterns/footer.php:74
+msgid "You will be notified when something new will be appear."
+msgstr ""
+
+#: patterns/footer.php:89
+msgid "Follow Us Social"
+msgstr ""
+
+#: patterns/footer.php:109
+msgid "Our Recent Posts"
+msgstr ""
+
+#: patterns/footer.php:137
+msgid "© Copyright 2024. All Rights Reserved."
+msgstr ""
+
+#: patterns/footer.php:141
+msgid "Proudly powered by"
+msgstr ""
+
+#: patterns/footer.php:141
+msgid "Star Themes"
+msgstr ""
+
+#: patterns/footer.php:141
+msgid "and"
+msgstr ""
+
+#: patterns/footer.php:141
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer.php:141
+msgid "WordPress"
+msgstr ""
+
+#: patterns/header.php:32
+msgid "Visit Us Email"
+msgstr ""
+
+#: patterns/header.php:52
+msgid "Visit Us Call"
+msgstr ""
+
+#: patterns/latest-news.php:15
+msgid "VISITING OUR BLOG"
+msgstr ""
+
+#: patterns/latest-news.php:21
+msgid "Read And Stay Calm With Our Latest Articles"
+msgstr ""
+
+#: patterns/team.php:15
+msgid "OUR CATHEDRAL PASTORS"
+msgstr ""
+
+#: patterns/team.php:21
+msgid "Meet Our Wonderful Team Of Cathedral Pastors"
+msgstr ""
+
+#: patterns/team.php:40
+msgid "Roy Anderson"
+msgstr ""
+
+#: patterns/team.php:44
+msgid "Senior Pastor"
+msgstr ""
+
+#: patterns/team.php:60
+msgid "Eva Savits"
+msgstr ""
+
+#: patterns/team.php:64
+msgid "Associate Pastor"
+msgstr ""
+
+#: patterns/team.php:80
+msgid "William Carrol"
+msgstr ""
+
+#: patterns/team.php:84
+msgid "Lead Pastor"
+msgstr ""
+
+#: patterns/wedo.php:15
+msgid "What We Do"
+msgstr ""
+
+#: patterns/wedo.php:21
+msgid "Keeping Our Church Safe For Everyone"
+msgstr ""
+
+#: patterns/wedo.php:41
+#: patterns/wedo.php:103
+msgid "Morning Prayer"
+msgstr ""
+
+#: patterns/wedo.php:45
+#: patterns/wedo.php:65
+#: patterns/wedo.php:85
+#: patterns/wedo.php:107
+#: patterns/wedo.php:127
+#: patterns/wedo.php:147
+msgid ""
+"Duis ac turpis. Donec sit amet eros. Lorem ipsum dolor sit amet, "
+"consectetuer adipiscing elit. Mauris fermentum dictum magna."
+msgstr ""
+
+#: patterns/wedo.php:61
+#: patterns/wedo.php:123
+msgid "Exhortation"
+msgstr ""
+
+#: patterns/wedo.php:81
+#: patterns/wedo.php:143
+msgid "Counseling"
+msgstr ""
